@@ -7,6 +7,8 @@ SMC Flash Tool, formerly <a href="https://github.com/MuertoGB/SMCTool">SMCTool</
 
 <h4 align="center">Making SMC flashing quicker and easier.</h4>
 
+This project is now end of life, and shall receive no more updates by the developer. Issues will no longer be responded to.
+
 <p align="center">
   <a href="#about">About</a> •
   <a href="#download">Download</a> •
